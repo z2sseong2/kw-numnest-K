@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const lib = require("./lib");
 let command = process.argv[2];
 let numbers = process.argv
